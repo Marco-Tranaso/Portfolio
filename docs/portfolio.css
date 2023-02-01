@@ -1,0 +1,16 @@
+h1{
+    text-align:center;
+}
+p{
+    text-align:center;
+}
+
+header{
+    height:30px;
+    background-color:black;
+}
+#logo{ 
+	position:fixed; 
+	top:0; 
+	left:0; 
+} 
