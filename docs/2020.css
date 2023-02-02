@@ -27,13 +27,13 @@
     background-color: rgb(22, 218, 22);
     color: white;
   }
-  img {
+  .img1 {
     text-align: left;
   padding-top: 0px;
   max-width: 111px;
   }
   body{
-    background-image:url("cool-backgroundd.png");
+    background-image:url("cool-background.png");
     background-size: cover;
     color: white;
     
@@ -47,3 +47,10 @@
 
                                                 
   }
+  h2{
+    color:black;
+  }
+  .img2{
+    width: 500px;
+  }
+  
